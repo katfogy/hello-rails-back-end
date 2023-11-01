@@ -67,10 +67,6 @@ In order to run this project you need:
     postgresql
     bundler
     rspec
-    react
-    webpack
-    yarn
-    redux
 ```
 
 ### Front-end
