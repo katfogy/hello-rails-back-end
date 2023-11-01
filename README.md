@@ -16,6 +16,7 @@
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
+    [Front-end](#Link to hello-react-front-end)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
@@ -71,6 +72,10 @@ In order to run this project you need:
     yarn
     redux
 ```
+
+### Front-end
+
+-This is hello-react-front-end application (https://github.com/katfogy)
 
 ### Setup
 
