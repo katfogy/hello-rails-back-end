@@ -71,7 +71,7 @@ In order to run this project you need:
 
 ### Front-end
 
--This is hello-react-front-end application (https://github.com/katfogy)
+-This is hello-react-front-end application (https://github.com/katfogy/hello-react-front-end)
 
 ### Setup
 
