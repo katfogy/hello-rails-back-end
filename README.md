@@ -32,7 +32,7 @@
 # 📖 Hello-rails-backend <a name="about-project"></a>
 
 **Hello-rails-backend** 
- hello-rails-back-end is an api app build using rails for backend that displays a random greeting from a collection of greeting.
+ hello-rails-back-end is an API app build using rails for backend that displays a random greeting from a collection of Greeting.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,10 +62,10 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-    ruby
-    rails
-    postgresql
-    bundler
+    Ruby
+    Rails
+    Postgresql
+    bBundler
     rspec
 ```
 
